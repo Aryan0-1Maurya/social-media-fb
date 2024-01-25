@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.18261f0e.css",
+    "main.js": "/static/js/main.4624becf.js",
+    "static/media/Card5.jpg": "/static/media/Card5.2ef8d2048d4eda96d5db.jpg",
+    "static/media/Card1.jpg": "/static/media/Card1.20f93899b903a0d8298e.jpg",
+    "static/media/nature.jpg": "/static/media/nature.739b04e6e8b94a064ae8.jpg",
+    "static/media/Card2.jpg": "/static/media/Card2.0c945712bdf2ba8ee534.jpg",
+    "static/media/waterslide.jpg": "/static/media/waterslide.d747145608070a678893.jpg",
+    "static/media/Card4.jpg": "/static/media/Card4.cfdeea4d399400b37324.jpg",
+    "static/media/laptop.jpg": "/static/media/laptop.7efb173e3fa9aa19aeba.jpg",
+    "static/media/Card3.jpg": "/static/media/Card3.82a6f096729835f22c10.jpg",
+    "static/media/profilePic.jpg": "/static/media/profilePic.decc0f2e25cb5739baf5.jpg",
+    "static/media/media.jpg": "/static/media/media.99cfe94ecc4a2b293b95.jpg",
+    "static/media/apps.jpg": "/static/media/apps.4ee7a3fbe500c68c693e.jpg",
+    "static/media/tik.jpg": "/static/media/tik.97b8d1ea3856efe85a40.jpg",
+    "static/media/avatar.jpg": "/static/media/avatar.50810f8c8213611e6455.jpg",
+    "index.html": "/index.html",
+    "main.18261f0e.css.map": "/static/css/main.18261f0e.css.map",
+    "main.4624becf.js.map": "/static/js/main.4624becf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18261f0e.css",
+    "static/js/main.4624becf.js"
+  ]
+}
